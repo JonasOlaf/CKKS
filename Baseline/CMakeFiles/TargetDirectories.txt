@@ -1,0 +1,3 @@
+/Users/jonasolafsson/Documents/speciale/encryption/CKKS/CMakeFiles/rebuild_cache.dir
+/Users/jonasolafsson/Documents/speciale/encryption/CKKS/CMakeFiles/edit_cache.dir
+/Users/jonasolafsson/Documents/speciale/encryption/CKKS/CMakeFiles/exec.dir

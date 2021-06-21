@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="demo" Version="10000">
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="NoConfig" Selected="yes">
+      <Project Name="demo" ConfigName="NoConfig"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
